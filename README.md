@@ -6,11 +6,11 @@
 
 ## Description
 
-_A web page for my second solo project_
+_A web page for my third solo project_
 
 ## Setup/Installation Requirements
 
-* _Clone this repository : https://github.com/z3pp89/second-week.git_
+* _Clone this repository : https://github.com/z3pp89/third-week.git_
 * _Open a simple HTTP server in the top level of the cloned directory. For a mac, run the following command in your terminal:_   
 * _python -m SimpleHTTPServer_
 * _Then open your web browser of choice to localhost:8000_
