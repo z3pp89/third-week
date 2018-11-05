@@ -5,3 +5,6 @@ jumbotron {
 body {
   margin-top: 40px;
 }
+#display {
+  font-style: oblique;
+}
